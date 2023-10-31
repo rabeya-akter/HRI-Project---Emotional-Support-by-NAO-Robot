@@ -58,6 +58,7 @@ Team Members:
 Supervisors:
 * ![lafifa maam](https://github.com/rabeya-akter/HRI-Project---Emotional-Support-by-NAO-Robot/assets/44209638/d3b486fc-4ee5-42a4-837d-e29b4f5af79f)
 
+<img src="https://github.com/rabeya-akter/HRI-Project---Emotional-Support-by-NAO-Robot/assets/44209638/d3b486fc-4ee5-42a4-837d-e29b4f5af79f.type" width="100" height="100">
 [Dr. Lafifa Jamal](https://scholar.google.com/citations?user=ONYx9JUAAAAJ&hl=en&oi=ao)
 * ![shifat sir](https://github.com/rabeya-akter/HRI-Project---Emotional-Support-by-NAO-Robot/assets/44209638/9e3ba24b-49b2-4650-a705-9b8c05730e07)
 
