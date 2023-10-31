@@ -36,7 +36,7 @@ Welcome to the HRI Project on Emotional Support Evaluation with NAO Robot. This 
 - Data analysis, including statistical methods.
 - Drawing conclusions and formulating recommendations for enhancement.
 
-## Getting Started
+## Additional Materials
 
 
 - [Questionnaire Google Form](https://docs.google.com/forms/d/1CnlVLam9A6k3aHaudxtwBnavhzoYqmX0SLcxNW_EAz8/prefill)
