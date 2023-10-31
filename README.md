@@ -56,10 +56,9 @@ Team Members:
   [Tapos Biswas]
 
 Supervisors:
-* ![40941205](https://github.com/rabeya-akter/HRI-Project---Emotional-Support-by-NAO-Robot/assets/44209638/9f137c46-d064-411f-a10d-d96fb2dc02a2)
-
+*
 [Dr. Lafifa Jamal](https://scholar.google.com/citations?user=ONYx9JUAAAAJ&hl=en&oi=ao)
-* ![image](https://github.com/rabeya-akter/HRI-Project---Emotional-Support-by-NAO-Robot/assets/44209638/594a237d-a4d3-4266-9af6-85975bf22c99]
+* 
   [Shifat E Arman](https://scholar.google.com/citations?hl=en&user=9IRPbVkAAAAJ)
 
 
