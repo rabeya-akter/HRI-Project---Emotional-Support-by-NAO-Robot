@@ -23,4 +23,28 @@ Welcome to the HRI Project on Emotional Support Evaluation with NAO Robot. This 
 - **Presence of Caregiver or Observer:** Ensure the presence of caregivers or observers for participant safety.
 - **Controlled Environment:** Maintain a controlled environment for distraction-free emotional support sessions.
 
+# Work Done Thus Far
+
+- Emotional response code for NAO for various emotions.
+- Developed a participant list for the project.
+- Created a questionnaire to facilitate in-depth comparative analysis.
+- Designed a Google Form for data collection.
+
+## Expected Work To Be Done
+
+- Data collection and questionnaire responses.
+- Data analysis, including statistical methods.
+- Drawing conclusions and formulating recommendations for enhancement.
+
+## Getting Started
+
+
+- [Questionnaire Google Form](https://docs.google.com/forms/d/1CnlVLam9A6k3aHaudxtwBnavhzoYqmX0SLcxNW_EAz8/prefill)
+
+## Contribution
+
+Contributions and suggestions are welcome! Feel free to fork this repository, make your changes, and submit a pull request. If you have any questions or need assistance, please reach out to us.
+
+
+
 
