@@ -46,5 +46,21 @@ Welcome to the HRI Project on Emotional Support Evaluation with NAO Robot. This 
 Contributions and suggestions are welcome! Feel free to fork this repository, make your changes, and submit a pull request. If you have any questions or need assistance, please reach out to us.
 
 
+Team Members:
+
+* ![image](https://user-images.githubusercontent.com/44209638/180597701-bcd41f79-4426-4c00-a40d-5351f6173765.png)
+[Rabeya Akter](https://scholar.google.com/citations?hl=en&user=3XYOK88AAAAJ)
+* ![image](https://user-images.githubusercontent.com/44209638/180597708-91354ac3-2b98-4971-8674-b10402443ddd.png)
+[Safaeid Hossain Arib](https://scholar.google.com/citations?hl=en&user=ETeF6sUAAAAJ)
+* ![image](https://user-images.githubusercontent.com/44209638/180597755-94964d1e-18c1-481d-9886-4b0644bc2d51.png)
+  [Tapos Biswas]
+
+Supervisors:
+* ![1675933082](https://github.com/rabeya-akter/HRI-Project---Emotional-Support-by-NAO-Robot/assets/44209638/cf988b4c-1753-4486-b645-b8cf84701567)
+[Dr. Lafifa Jamal](https://scholar.google.com/citations?user=ONYx9JUAAAAJ&hl=en&oi=ao)
+* ![54715_AD5CA448-3ABC-47D9-8C42-4A00DF3CDC8D](https://github.com/rabeya-akter/HRI-Project---Emotional-Support-by-NAO-Robot/assets/44209638/594a237d-a4d3-4266-9af6-85975bf22c99]
+  [Shifat E Arman](https://scholar.google.com/citations?hl=en&user=9IRPbVkAAAAJ)
+
+
 
 
