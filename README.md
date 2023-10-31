@@ -52,14 +52,12 @@ Team Members:
 [Rabeya Akter](https://scholar.google.com/citations?hl=en&user=3XYOK88AAAAJ)
 * ![image](https://user-images.githubusercontent.com/44209638/180597708-91354ac3-2b98-4971-8674-b10402443ddd.png)
 [Safaeid Hossain Arib](https://scholar.google.com/citations?hl=en&user=ETeF6sUAAAAJ)
-* ![image](https://user-images.githubusercontent.com/44209638/180597755-94964d1e-18c1-481d-9886-4b0644bc2d51.png)
-  Tapos Biswas
+* <img src="https://github.com/rabeya-akter/HRI-Project---Emotional-Support-by-NAO-Robot/assets/44209638/f7be5042-d3c5-41bd-ae65-df8e051efceb.type" width="50" height="50"> Tapos Biswas
 
 Supervisors:
-* <img src="https://github.com/rabeya-akter/HRI-Project---Emotional-Support-by-NAO-Robot/assets/44209638/d3b486fc-4ee5-42a4-837d-e29b4f5af79f.type" width="50" height="50">
-[Dr. Lafifa Jamal]
-* <img src="https://github.com/rabeya-akter/HRI-Project---Emotional-Support-by-NAO-Robot/assets/44209638/9e3ba24b-49b2-4650-a705-9b8c05730e07.type" width="50" height="50">
-  [Shifat E Arman]
+
+* <img src="https://github.com/rabeya-akter/HRI-Project---Emotional-Support-by-NAO-Robot/assets/44209638/d3b486fc-4ee5-42a4-837d-e29b4f5af79f.type" width="50" height="50"> Dr. Lafifa Jamal
+* <img src="https://github.com/rabeya-akter/HRI-Project---Emotional-Support-by-NAO-Robot/assets/44209638/9e3ba24b-49b2-4650-a705-9b8c05730e07.type" width="50" height="50"> Shifat E Arman
 
 
 
