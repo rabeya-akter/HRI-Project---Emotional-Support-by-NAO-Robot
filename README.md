@@ -1,6 +1,7 @@
 # Emotional Support by NAO Robot
 
-![Nao-robot_2953055b](https://github.com/rabeya-akter/HRI-Project---Emotional-Support-by-NAO-Robot/assets/44209638/b738daa3-29f2-486e-a5b0-8babf2bb904f)
+
+![medium post 2](https://github.com/rabeya-akter/HRI-Project---Emotional-Support-by-NAO-Robot/assets/44209638/75e633e1-b54b-4ce9-af21-27239e45dae7)
 
 
 
