@@ -1,4 +1,4 @@
-# Emotional Support by NAO Robot
+# A Comprehensive Comparative Analysis of Emotional Support Delivery by NAO Robots and Humans Across Varied Emotional States
 
 
 ![medium post 2](https://github.com/rabeya-akter/HRI-Project---Emotional-Support-by-NAO-Robot/assets/44209638/75e633e1-b54b-4ce9-af21-27239e45dae7)
