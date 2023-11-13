@@ -42,6 +42,12 @@ Welcome to the HRI Project on Emotional Support Evaluation with NAO Robot. This 
 
 - [Questionnaire Google Form](https://docs.google.com/forms/d/1CnlVLam9A6k3aHaudxtwBnavhzoYqmX0SLcxNW_EAz8/prefill)
 
+## Demo Videos
+
+Demo video for happiness:
+Demo video for sadness:
+Demo video for fear: 
+
 ## Contribution
 
 Contributions and suggestions are welcome! Feel free to fork this repository, make your changes, and submit a pull request. If you have any questions or need assistance, please reach out to us.
