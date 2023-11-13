@@ -44,9 +44,11 @@ Welcome to the HRI Project on Emotional Support Evaluation with NAO Robot. This 
 
 ## Demo Videos
 
-Demo video for happiness:
-Demo video for sadness:
-Demo video for fear: 
+Demo video for happiness: https://youtu.be/DAIGoRvI_EI
+
+Demo video for sadness: https://youtu.be/GhUbjXp15fY
+
+Demo video for fear: https://youtu.be/pCVFzG7Eijc
 
 ## Contribution
 
